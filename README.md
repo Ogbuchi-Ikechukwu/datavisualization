@@ -5,7 +5,7 @@
 ## Dataset
 
 > This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
-My dataset has 183,412 rows with 16 columns. It consists of integer, float and string object datatypes. The member_birth_year column and the member_gender columns have the most missing values. And some of the columns have incorrect data types like the start_time, end_time and bike_id columns
+My dataset has 183,412 rows with 16 columns. It consists of integer, float and string object datatypes. The member_birth_year column and the member_gender columns have the most missing values. And some of the columns have incorrect data types like the start_time, end_time and bike_id columns. Downloaded from: https://www.google.com/url?q=https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
 
 
 ## Summary of Findings
